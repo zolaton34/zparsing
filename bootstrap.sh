@@ -24,3 +24,4 @@ echo "Running 'git sparse-checkout set $FOLDERS'"
 git sparse-checkout set $FOLDERS
 
 # End of script
+# Done on server
