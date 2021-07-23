@@ -24,4 +24,4 @@ from the following GitHub repos (with licenses):
 * [artsy/artsy.github.io](https://github.com/artsy/artsy.github.io) (MIT)
 * [cloudacademy/static-website-example](https://github.com/cloudacademy/static-website-example) (CC-A 3.0)
 * [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) (MIT)
-// Added a comment
+// Changed README comment
