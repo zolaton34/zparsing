@@ -25,4 +25,4 @@ from the following GitHub repos (with licenses):
 * [cloudacademy/static-website-example](https://github.com/cloudacademy/static-website-example) (CC-A 3.0)
 * [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) (MIT)
 // Magico changed README comment
-aa
+changed by magico
